@@ -1,0 +1,28 @@
+.menu{
+    width: 100%;
+    text-align: right;
+}
+
+a:hover{
+    color: #1e1e1e;
+}
+
+table {
+  background-color: antiquewhite;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.btnp {
+text-decoration:none;
+font-weight:600;
+font-size:20px;
+color:#ffffff;
+padding-top:20px;
+padding-bottom:20px;
+padding-left:40px;
+padding-right:40px;
+background-color:#005BBB;
+}
